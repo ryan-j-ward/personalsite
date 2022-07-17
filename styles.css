@@ -65,8 +65,8 @@ header .social-nav {
   background-color: #1DA1F2;
 }
 
-.social-nav .sn-instagram {
-  background: url('./images/instagram.svg') no-repeat 50% 50%;
+.social-nav .si-linkedin {
+  background: url('./images/linkedin-round.svg') no-repeat 50% 50%;
   background-color: #E1306C;
 }
 
